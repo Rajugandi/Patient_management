@@ -1,0 +1,20 @@
+### PUT request for updating existing employee
+PUT http://localhost:4000/patients/223e4567-e89b-12d3-a456-426614174012
+Content-Type: application/json
+
+
+
+//{
+//  "name" : "santaner Warner",
+//  "email": "santner@example.com",
+//  "address": "5-44, colony street , newzland",
+//  "dateOfBirth": "1999-09-09"
+//}
+
+{
+  "name": "Raju Gandi",
+  "email": "Raju.clark@example.com",
+  "address": "143 Hickory St, Shelbyville",
+  "dateOfBirth": "1991-12-25"
+}
+###
